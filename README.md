@@ -1,5 +1,5 @@
 # GENIUS
-
+![Downloads](https://img.shields.io/github/downloads/BeNDYGo/GENIUS/total.svg)
 **GENIUS** работает на music.yandex.ru и soundcloud.com.
 
 Расширение добавляет кнопку "G" на сайт в область плеера.
