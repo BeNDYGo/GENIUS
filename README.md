@@ -4,7 +4,7 @@
 
 - ![TG-img](https://cdn-icons-png.freepik.com/16/15047/15047595.png) [KinipoiskToSspoisk](https://t.me/KinipoiskToSspoisk)
 - ![Gmail-img](https://cdn-icons-png.freepik.com/16/5968/5968534.png?ga=GA1.1.1230537149.1769259151) bendygo6@gmail.com
-- 
+  
 **GENIUS** работает на music.yandex.ru и soundcloud.com.
 
 Расширение добавляет кнопку "G" на сайт в область плеера.
